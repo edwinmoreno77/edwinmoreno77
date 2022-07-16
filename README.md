@@ -10,9 +10,7 @@
 <code><img height="80" alt="react" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/react.png"></code>
 <code><img height="80" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/nodejs.png"></code>
 <code><img height="80" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/bootstrap-logo-shadow.png"></code>
-<code><img height="80" alt="nodejs" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png"></code>
-<code><img height="80" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/git-logo.jpg"></code>
-
+<code><img height="80" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/logo-git.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinmoreno77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
