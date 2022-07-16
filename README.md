@@ -2,15 +2,13 @@
 <h1 align="center"> Hi👋 i'm </h1>
 
 
-![me](https://user-images.githubusercontent.com/101675655/179370927-da494f0c-eb1e-40f8-a585-b7e7c24d672a.png)
+![me](https://github.com/edwinmoreno77/edwinmoreno77/blob/main/1.png)
 
-
-<code><img height="60" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="60" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="60" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
+<code><img height="80" alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/html.png"></code> 
+<code><img height="80" alt="css" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/css.png"></code> 
+<code><img height="80" alt="javascript" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/javascript.png"></code>
+<code><img height="80" alt="react" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/react.png"></code>
+<code><img height="80" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/nodejs.png"></code>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinmoreno77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
