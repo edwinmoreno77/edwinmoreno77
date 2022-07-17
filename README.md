@@ -8,5 +8,5 @@
 <img height="80" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/bootstrap-logo-shadow.png">
 <img height="80" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/logo-git.png"></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmoreno77&show_icons=true&locale=en&layout=compact" width="485" height="200" alt="edwinmoreno77"/> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=edwinmoreno77&show_icons=true&locale=en" width="485" height="200" alt="edwinmoreno77"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmoreno77&show_icons=true&locale=en&layout=compact" width="450" height="200" alt="edwinmoreno77"/> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=edwinmoreno77&show_icons=true&locale=en" width="450" height="200" alt="edwinmoreno77"/>
 
