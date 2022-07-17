@@ -1,8 +1,8 @@
 
-<h1 align="center"> Hi👋 i'm </h1>
 
 
-![me](https://github.com/edwinmoreno77/edwinmoreno77/blob/main/1.png)
+
+![me](https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github-sin-lenguajes.png)
 
 <code><img height="80" alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/html.png"></code> 
 <code><img height="80" alt="css" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/css.png"></code> 
