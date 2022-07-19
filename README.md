@@ -7,5 +7,5 @@
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/bootstrap-logo-shadow.png"></a>
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/logo-git.png"></a></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmoreno77&show_icons=true&locale=en&layout=compact" width="380" height="200" alt="edwinmoreno77"/> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=edwinmoreno77&show_icons=true&locale=en" width="450" height="200" alt="edwinmoreno77"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmoreno77&show_icons=true&locale=en&layout=compact" width="380" height="200" alt="edwinmoreno77"/> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=edwinmoreno77&show_icons=true&locale=en" width="420" height="200" alt="edwinmoreno77"/>
 
