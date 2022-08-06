@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="80" alt="css" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/css.png"></a><a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="65" alt="javascript" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/javascript.png"></a>
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="react" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/react.png"></a>
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/nodejs.png"></a>
-<a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="MongoDB" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/images.png"></a>
+<a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="MongoDB" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/mongodb_compass.png"></a>
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="Bootstrap" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/bootstrap-logo-shadow.png"></a>
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="70" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/logo-git.png"></a></p>
 
