@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"> <img  alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github%204.png"> </a>
+<a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"> <img  alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/Edwin%20Moreno%20(2).png"> </a>
 
 <p align="center"> <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="80" alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/html.png"></a> 
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="80" alt="css" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/css.png"></a><a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="65" alt="javascript" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/javascript.png"></a>
