@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="60" alt="react" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/react.png"></a>
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="60" alt="nodejs" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/nodejs.png"></a>
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="60" alt="MongoDB" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/mongodb_compass.png"></a>
-<a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="60" alt="Bootstrap" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/bootstrap-logo-shadow.png"></a>
+<a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="60" alt="Bootstrap" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/bootstrap-logo-shadow.png"></a> <a href="https://tailwindcss.com/" target="_blank"><img height="60" alt="tailwind" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/tailwind.png"></a>
 <a href="https://mui.com/" target="_blank"><img height="50" alt="materialUI" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/material-ui-logo.png"></a>
 <a href="https://redux.js.org/" target="_blank"><img height="60" alt="Redux" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/Redux.png"></a> <a href="https://cloudinary.com/" target="_blank"><img height="60" alt="cloudinary" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/cloudinary.png"></a>
 <a href="https://firebase.google.com/" target="_blank"><img height="50" alt="firebase" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/firebase.png"></a>
