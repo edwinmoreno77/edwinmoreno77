@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"> <img alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/Edwin%20Moreno%20(2).png"> </a>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="55" alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/html.png"></a> 
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="55" alt="css" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/css.png"></a>
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="45" alt="javascript" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/javascript.png"></a>
@@ -24,10 +24,14 @@
   <a href="https://github.com" target="_blank"><img height="60" alt="github" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github.png"></a>
   <a href="https://gitlab.com/" target="_blank"><img height="50" alt="gitlab" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/gitlab.png"></a>
   <a href="https://jestjs.io/" target="_blank"><img height="50" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/JEST.png" alt="jest" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/firebase.png"></a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmoreno77&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="edwinmoreno77"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinmoreno77&show_icons=true&locale=en" width="390" height="200" alt="edwinmoreno77"/>
-</p>
+</p> -->
 
+
+<p align="center">
+  <img src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github-metrics.svg" alt="Metrics" width="70%">
+</p>
