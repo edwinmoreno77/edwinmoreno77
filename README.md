@@ -46,7 +46,7 @@ Hi there! I'm a Full Stack Developer focused on building modern, scalable web so
 
 
 <p align="center">
-  <img src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github-metrics.svg" alt="Metrics" width="70%">
+  <img src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github-metrics.svg" alt="Metrics" width="50%">
 </p>
 
 <div align="center">
