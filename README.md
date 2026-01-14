@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Software Developer | 📍 Chile
 
-Hi there! I'm a Full Stack Developer focused on building modern, scalable web solutions. While my background is rooted in **React/Next.js**, I am currently working with **Vue 3 and Python** to deliver high-impact features.
+Hi there! I'm a Full Stack Developer focused on building modern, scalable web solutions. While my background is rooted in **React/Next.js**, I am currently working with **Vue 3 and Python**.
 
 🔭 **Currently:** Software Developer at **Urvan**, building geospatial tracking and real-time solutions using **Vue 3, FastAPI, and Supabase**.
 🛠️ **Stack:** JavaScript/TypeScript (React & Vue) + Python/NodeJs
