@@ -1,5 +1,18 @@
 <!-- <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"> <img alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/Edwin%20Moreno%20(2).png"> </a> -->
 
+# Edwin Moreno 🚀
+
+### 👨‍💻 Software Developer | 📍 Chile
+
+Hi there! I'm a Full Stack Developer focused on building modern, scalable web solutions. While my background is rooted in **React/Next.js**, I am currently working with **Vue 3 and Python** to deliver high-impact features.
+
+🔭 **Currently:** Software Developer at **Urvan**, building geospatial tracking and real-time solutions using **Vue 3, FastAPI, and Supabase**.
+🛠️ **Stack:** JavaScript/TypeScript (React & Vue) + Python/NodeJs
+
+
+---
+
+
  <p align="center">
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="55" alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/html.png"></a> 
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="55" alt="css" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/css.png"></a>
@@ -35,3 +48,8 @@
 <p align="center">
   <img src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github-metrics.svg" alt="Metrics" width="70%">
 </p>
+
+<div align="center">
+  <a href="https://www.edwinm.dev">💻 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/edwinmoreno777/">🔗 LinkedIn</a>
+</div>
