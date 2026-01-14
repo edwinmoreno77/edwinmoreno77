@@ -1,6 +1,6 @@
 <!-- <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"> <img alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/Edwin%20Moreno%20(2).png"> </a> -->
 
-# Edwin Moreno 🚀
+# Edwin Moreno 
 
 ### 👨‍💻 Software Developer | 📍 Chile
 
@@ -48,8 +48,3 @@ Hi there! I'm a Full Stack Developer focused on building modern, scalable web so
 <p align="center">
   <img src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github-metrics.svg" alt="Metrics" width="60%">
 </p>
-
-<div align="center">
-  <a href="https://www.edwinm.dev">💻 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/edwinmoreno777/">🔗 LinkedIn</a>
-</div>
