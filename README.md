@@ -42,9 +42,9 @@ Hi there! I'm a Full Stack Developer focused on building modern, scalable web so
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmoreno77&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="edwinmoreno77"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinmoreno77&show_icons=true&locale=en" width="390" height="200" alt="edwinmoreno77"/>
-</p> -->
+</p>  -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/github-metrics.svg" alt="Metrics" width="60%">
-</p>
+</p> -->
