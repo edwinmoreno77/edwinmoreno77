@@ -13,7 +13,7 @@ Hi there! I'm a Full Stack Developer focused on building modern, scalable web so
 ---
 
 
- <p align="center">
+<!--  <p align="center">
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="55" alt="html" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/html.png"></a> 
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="55" alt="css" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/css.png"></a>
   <a href="https://www.linkedin.com/in/edwinmoreno777/" target="_blank"><img height="45" alt="javascript" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/javascript.png"></a>
@@ -38,7 +38,6 @@ Hi there! I'm a Full Stack Developer focused on building modern, scalable web so
   <a href="https://gitlab.com/" target="_blank"><img height="50" alt="gitlab" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/gitlab.png"></a>
   <a href="https://jestjs.io/" target="_blank"><img height="50" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/JEST.png" alt="jest" src="https://github.com/edwinmoreno77/edwinmoreno77/blob/main/firebase.png"></a>
 </p> 
-
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinmoreno77&show_icons=true&locale=en&layout=compact" width="300" height="200" alt="edwinmoreno77"/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinmoreno77&show_icons=true&locale=en" width="390" height="200" alt="edwinmoreno77"/>
